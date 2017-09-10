@@ -4,6 +4,8 @@
 
 This neuron allows you to open an url in an webbrowser
 
+Note: This neuron will only works if you have a GUI.
+
 ## Installation
 ```bash
 kalliope install --git-url https://github.com/royto/kalliope_neuron_webbrowser.git
