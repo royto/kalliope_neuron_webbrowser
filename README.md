@@ -1,4 +1,4 @@
-# The Movie Db
+# WebBrowser
 
 ## Synopsis
 
